@@ -1,0 +1,4 @@
+{
+    "git-graph.repository.onLoad.scrollToHead": true,
+    "git-graph.repository.onLoad.showCheckedOutBranch": true
+}
